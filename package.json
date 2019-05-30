@@ -1,0 +1,23 @@
+{
+  "name": "plugin-node-data-transform",
+  "version": "1.0.0-alpha.0",
+  "description": "Data Transform Plugin for Pattern Lab Node",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aleksip/plugin-node-data-transform.git"
+  },
+  "author": "Aleksi Peebles",
+  "license": "GPL-2.0-or-later",
+  "bugs": {
+    "url": "https://github.com/aleksip/plugin-node-data-transform/issues"
+  },
+  "homepage": "https://github.com/aleksip/plugin-node-data-transform#readme",
+  "devDependencies": {
+    "eslint": "^5.16.0",
+    "eslint-config-prettier": "^4.3.0",
+    "eslint-plugin-prettier": "^3.1.0",
+    "prettier": "^1.17.1"
+  }
+}
